@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salmaF-2
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning python
 - 📫 How to reach me => salmafadili003@gmail.com
 - ❤ Every day is a learning day...
 
